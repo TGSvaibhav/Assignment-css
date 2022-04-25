@@ -1,0 +1,15 @@
+body{
+    background-color: lemonchiffon;
+}
+
+td{
+    border-style: outset;
+    padding: 20px;
+}
+#timai{
+    margin: auto 450px;
+
+}
+a{
+    text-decoration: none;
+}
