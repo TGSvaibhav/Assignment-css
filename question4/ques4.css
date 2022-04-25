@@ -1,0 +1,58 @@
+#mains{
+    height: 500px;
+    background-color: rgb(229, 248, 196);
+    border-style: inset;
+border-color: brown;
+}
+#pma{
+    display: flex;
+    position: static;
+}
+#p2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(194, 4, 134);
+    margin: 20px;
+}
+#p3{
+
+        width: 100px;
+        height: 100px;
+        background-color: rgb(20, 189, 231);
+        margin: 20px;
+    
+}
+#pm {
+    display: flex;
+    position: relative;
+}
+#pm #p3{
+    position: relative;
+    left: 40px;
+    top: 70px;
+}
+
+#two{
+background-color: lavender;
+float: left;
+width: 70px;
+border-style: groove;
+border-radius: 5px;
+}
+#one{
+background-color: pink;
+float: right;
+width: 70px;
+border-style: groove;
+border-radius: 5px;
+}
+#dad{
+
+background-color: rgb(229, 248, 196);
+height: 200px;
+border-style: inset;
+border-color: brown;
+}
+h2{
+    text-align: center;
+}
