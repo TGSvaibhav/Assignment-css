@@ -1,8 +1,12 @@
 
+body{
+    background-color: black;
+}
 .sdiv{
     
     text-align: center;
-    border: double;
+    border-style: inset;
+    border-color: rgb(232, 225, 225);
     border-width: 5px;
     margin-left: 25px;
     margin-right: 25px;
@@ -11,14 +15,12 @@
 }
 #main{
     
-    background-color:lemonchiffon;
+    background-color:rgb(189, 188, 175);
     width: 700px;
     padding: 20px;
     
 }
-#dateit{
-    font-style: italic;
-}
+
 #button{
     padding-top:50px;
 }
