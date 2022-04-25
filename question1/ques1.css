@@ -1,0 +1,38 @@
+
+.sdiv{
+    
+    text-align: center;
+    border: double;
+    border-width: 5px;
+    margin-left: 25px;
+    margin-right: 25px;
+    
+   
+}
+#main{
+    /* margin: auto 200px; */
+    background-color: aqua;
+    width: 700px;
+    padding: 20px;
+    
+}
+#dateit{
+    font-style: italic;
+}
+#button{
+    padding-top:50px;
+}
+#len{
+    width: 270px;
+}
+#add{
+    width: 400px;
+}
+td{
+    padding-left: 10px;
+    padding-bottom: 10PX;
+    
+}
+.shift{
+    padding-left: 25px;
+}
